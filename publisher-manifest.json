@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "666d5e2251beebba7b5379e0",
+  "owner": "ctukukdef",
+  "repo": "page-4754e290ab52a57bd819d653",
+  "title": "Moon",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4754e290ab52a57bd819d653",
+      "a": "Moon",
+      "b": "稳定全球clash加速器",
+      "entity": "Moon",
+      "brand": "Moon",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a590edfd8585fe38598f4f6e6dfb162d7e8bd87f6b718727ac913a44ac57f292",
+      "content": {
+        "primary_entity": "Moon",
+        "keyword1": "Moon",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅链接完成配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，下载客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "快速开始 Moon 加速体验",
+          "AI_DESCRIPTION": "，围绕套餐选择、设备需求与订阅周期展开，提供基础的全球连接与流媒体解锁能力。基础版适合个人轻量使用，旗舰版适合多设备与游戏加速场景，团队版面向高带宽多终端需求。所有版本均支持 Clash 客户端订阅导入，配置流程清晰，按年付更划算。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个维度挑选 Moon 套餐。",
+          "AI_FEATURES_TITLE": "Moon 套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月 提供 100GB 流量，支持 3 台设备，适合个人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月 提供 300GB 流量，支持 5 台设备，含 IPLC 专线游戏优化与全节点流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月 提供 1000GB 流量，支持 20 台设备，含 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "游戏与流媒体优化",
+          "AI_FEATURE_TITLE_3": "多终端团队方案",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程，按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "Moon 使用步骤",
+          "AI_HERO_INTRO": "Moon 提供按月与按年订阅的全球加速方案，支持 Clash 客户端导入。根据设备数量和流量需求选择基础版、旗舰版或团队版，按年付可节省费用。",
+          "AI_HERO_SUBTITLE": "灵活套餐，适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按年付更优惠",
+          "AI_HIGHLIGHT_3": "Clash 订阅导入",
+          "AI_PLANS_INTRO": "对比流量、设备数量和专线权益，选择适合的 Moon 套餐。",
+          "AI_PLANS_TITLE": "Moon 套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数量，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量上限、设备数量与节点类型，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上下载 Clash 客户端，按照文档导入 Moon 订阅链接完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Moon 全球加速",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常使用，每月 100GB 流量和三台设备在线，能覆盖浏览、社交和基础流媒体需求；若有更高画质或多设备同时使用，可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。按常用手机、电脑和平板数量估算，选超过实际设备数的套餐更从容。",
+          "AI_FAQ_ANSWER_3": "月付适合短期使用，年付则更划算：基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相当于按十个月价格使用十二个月。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏和实时应用；团队版提供 VIP 专属高带宽节点和定制路由，适合企业多设备环境。",
+          "AI_FAQ_ANSWER_5": "订阅配置需根据设备系统选择对应客户端，导入节点后按客户端文档完成设置。不同系统客户端不同，建议先确认设备数量再选择套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版能满足哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版的线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "如何根据设备选择客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--exv2-3v4gm16f.com",
+    "host": "xn--exv2-3v4gm16f.com"
+  },
+  "file_hashes": {
+    "index.html": "4a5177ae089fd26eec077376358f19c42b3d50ef72e116b02ee523a1b7d7721c",
+    "sitemap.xml": "608fb1daa316b508f6981875321c9993a7ba3f5f7042fe9d1c91d1a49acb14b7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6a202e52c90818b6ec0f7b1ece9c2f685ff9fbaf1dccb192581c294b903e466c",
+    "robots.txt": "c04af8018c03d08ad9d9bd0ce48b457a7217536af10a76701be38d3321afaa07",
+    "c62336d3e7e515f61d26aefedfbd9f3d.txt": "727688287dcc90a83a4bb8be7274e531aa118d0dc7c03324dfc7a6cf3c3288e2"
+  },
+  "revision": "c975b597120c00790c2fb366d80fd642fd541fc958e24234a3f2edba9db5d471"
+}
